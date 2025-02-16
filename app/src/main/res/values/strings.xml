@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColesTestApp</string>
+    <string name="current">Current</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
